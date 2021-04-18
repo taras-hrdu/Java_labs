@@ -17,3 +17,7 @@ resetValues(параметри) - змінює значення всіх пол�
 
 В main() методі визначіть 3 об’єкти типу із завдання (з-за допомогою різних конструкторів) та виведіть інформацію про них з-за допомогою методу toString() та виведіть інформацію за допомогою методів printStaticField() і printField() 
 
+My first lab in Java If you want to launch the program, follow instruction: 
+1)Install Python3 
+2)Dowload the codes files in folder 
+3)Write in terminal "python app.java"
